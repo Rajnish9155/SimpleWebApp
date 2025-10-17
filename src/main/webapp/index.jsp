@@ -82,6 +82,14 @@ h1{
     transform: translate(-50%, -50%);
     color: #fff;
 }
+h2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+
 </style>
 </head>
 
@@ -99,7 +107,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> Welcome to Devops Training</h1>
+	<h1> Welcome to Devops Training</h1></br>
 	 <h2> By Rajnish Raj </h2>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
