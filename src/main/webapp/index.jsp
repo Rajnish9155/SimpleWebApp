@@ -91,15 +91,15 @@ h1{
         <header>
 		<span style="font-size:64px;margin-right:10px;color:green">Flipkart Site</span>
             <ul id="menu">
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About Us</a></li>
-                <li><a href="#product">Product</a></li>
-                <li><a href="#pricing">Pricing</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#About">About Us</a></li>
+                <li><a href="#Product">Product</a></li>
+                <li><a href="#Pricing">Pricing</a></li>
+                <li><a href="#Contact">Contact</a></li>
             </ul>
 		
         </header>
-         <h1> Welcome to Rajnish IT</h1>
+         <h1> Welcome to Devops Training</h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
