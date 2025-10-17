@@ -100,6 +100,7 @@ h1{
 		
         </header>
          <h1> Welcome to Devops Training</h1>
+	 <h2> By Rajnish Raj </h2>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
