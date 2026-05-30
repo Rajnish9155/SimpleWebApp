@@ -5,7 +5,7 @@
   <artifactId>shopping-site-web-app</artifactId>
   <packaging>war</packaging>
   <version>3.0</version>
-  <name>shopping-site-web-app</name>
+  <name>rajnish-app</name>
   <url>http://maven.apache.org</url>
  
   <dependencies>
@@ -17,7 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>shopping-site-web-app</finalName>
+    <finalName>rajnish-app</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
