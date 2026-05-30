@@ -97,7 +97,7 @@ h2{
     
     <section id="home">
         <header>
-		<span style="font-size:64px;margin-right:10px;color:green">Flipkart Site</span>
+		<span style="font-size:64px;margin-right:10px;color:green">Rajnish Portfilio</span>
             <ul id="menu">
                 <li><a href="#Home">Home</a></li>
                 <li><a href="#About">About Us</a></li>
@@ -107,10 +107,11 @@ h2{
             </ul>
 		
         </header>
-	<h1> Welcome to Devops Training</h1></br>
-	 <h2> By Rajnish Raj </h2>
+	<h1> Welcome to Devops Training</h1>
+	<br>
+	<h2> By Rajnish Raj </h2> </br>
     </section>    
-    <section id="about"><h1>This Is About</h1></section>
+    <section id="about"><h1>This Is About..!</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
     <section id="pricing"><h1>This Is Pricing</h1></section>
     <section id="contact"><h1>This Is Contact</h1></section>
