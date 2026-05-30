@@ -97,7 +97,7 @@ h2{
     
     <section id="home">
         <header>
-		<span style="font-size:64px;margin-right:10px;color:green">Rajnish Portfilio</span>
+		<span style="font-size:64px;margin-right:10px;color:green">Tech Guru</span>
             <ul id="menu">
                 <li><a href="#Home">Home</a></li>
                 <li><a href="#About">About Us</a></li>
